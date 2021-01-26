@@ -26,7 +26,7 @@ I'm Basil, a self-taught, frontend + backend freelance dev.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=GunnerBasil)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunnerBasil&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunnerBasil&layout=compact)
 
 ### Contact me:
 
