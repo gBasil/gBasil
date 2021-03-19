@@ -8,7 +8,7 @@ I'm Basil, a self-taught, frontend + backend freelance dev.
 - [Kof93](https://github.com/GunnerBasil/kof93) - The Kof93 game ripped from Windows93.net
 - [Dogeminer 2](https://github.com/GunnerBasil/dogeminer2) - Files for running Dogeminer 2 locally
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
