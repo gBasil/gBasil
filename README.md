@@ -30,5 +30,5 @@ I'm Basil, a self-taught, frontend + backend freelance dev.
 
 ### Contact me:
 
-- Discord: Basil#8132
+- Discord: Basil#1337
 - Email: basil@gbasil.dev
