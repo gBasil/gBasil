@@ -1,3 +1,7 @@
 ### Hello!
 
-You might want to check out [some of my projects](https://basil.cafe/projects) or my [Forgejo instance](https://git.basil.cafe/basil) for code, as I'm trying to not use GitHub. My recent projects are mirrored to GitHub for visibility.
+Hi, I'm Basil.
+
+- Website: [basil.cafe](https://basil.cafe)
+- More recent projects: [git.basil.cafe](https://git.basil.cafe)
+- Pronouns: she/her
