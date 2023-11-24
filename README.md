@@ -1,7 +1,5 @@
 ### Hello!
 
-Hi, I'm Basil.
+I'm Basil. I no longer post new projects to GitHub, please check out my account on [Codeberg](https://codeberg.org/basil) instead.
 
 - Website: [basil.cafe](https://basil.cafe)
-- More recent projects: [git.basil.cafe](https://git.basil.cafe)
-- Pronouns: she/they
