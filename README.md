@@ -1,5 +1,5 @@
 ### Hello!
 
-I'm Basil. I no longer post new projects to GitHub, please check out my account on [Codeberg](https://codeberg.org/basil) instead.
+I'm Basil. I have projects split across here and [Codeberg](https://codeberg.org/basil).
 
 - Website: [basil.cafe](https://basil.cafe)
